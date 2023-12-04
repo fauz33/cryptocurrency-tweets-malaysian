@@ -1,2 +1,2 @@
-# cryptocurrency-tweets-malaysian
-Tweets dataset about cryptocurrency by Malaysian in English and Malay language.
+# Cryptocurrency tweets from Malaysian Twitter users
+English and Malay tweets from Malaysian Twitter users that were related to cryptocurrency.
