@@ -1,2 +1,2 @@
-# Cryptocurrency tweets from Malaysian Twitter users
-English and Malay tweets from Malaysian Twitter users that were related to cryptocurrency.
+# Cryptocurrency tweets from Malaysian
+Cryptocurrency tweets in English and Malay from Malaysian Twitter users.
